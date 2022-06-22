@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BolterBait
 - 👀 I’m interested in life
-- 🌱 I’m currently learning HTML+CSS
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me osvyatobog@gmail.com
 
