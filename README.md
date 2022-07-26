@@ -6,9 +6,13 @@
 
 <h2>Stack and tools I use:</h2>
 <a href=""><img src="./images/alternative_icons/javascript.png" alt="logo" width="48px"/></a>
+
 <a href=""><img src="./images/alternative_icons/html.png" alt="logo" width="48px"/></a>
+
 <a href=""><img src="./images/alternative_icons/css.png" alt="logo" width="48px"/></a>
+
 <a href=""><img src="./images/alternative_icons/sass.png" alt="logo" width="48px"/></a>
+
 <a href=""><img src="./images/alternative_icons/github.png" alt="logo" width="48px"/></a> -
 
 <!---
