@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BolterBait
 - 👀 I’m interested in life
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Reactjs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me osvyatobog@gmail.com
 
